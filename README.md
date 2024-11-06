@@ -1,6 +1,6 @@
 # ABOUT
 
-- This repository has some starter files and projects that will help you to begin your typeScript journey!!
+- This repository has some starter files and projects that will help you to begin your TypeScript journey!!
 
 ## CONTENTS
 
